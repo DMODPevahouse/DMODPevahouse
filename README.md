@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on ominverse, unreal engine flight simulations, video over IP using Nvidia Rivermax, and learning more about how to innovate, create, and utilize AI<br>I am learning more about Artificial Intelligence with a Masters in AI from Johns Hopkins<br>I am an avid video game enjoyer<br>I competed on the University of Missouri Columbia League of Legends team from 2014-2018
+I am currently working on ominverse, unreal engine flight simulations, video over IP using Nvidia Rivermax, and learning more about how to innovate, create, and utilize/create AI models<br>I am learning more about Artificial Intelligence with a Masters in AI from Johns Hopkins<br>I am an avid video game enjoyer<br>I competed on the University of Missouri Columbia League of Legends team from 2014-2018
 
 
 ## 🌐 Socials:
